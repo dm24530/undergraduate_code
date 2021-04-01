@@ -1,0 +1,15 @@
+No.,Outlook,Temperature,Humidity,Windy,Play
+1,sunny,hot,high,FALSE,no
+2,sunny,hot,high,TRUE,no
+3,overcase,hot,high,FALSE,yes
+4,rain,mild,high,FALSE,yes
+5,rain,cool,normal,FALSE,yes
+6,rain,cool,normal,TRUE,no
+7,overcase,cool,normal,TRUE,yes
+8,sunny,mild,high,FALSE,no
+9,sunny,cool,normal,FALSE,yes
+10,rain,mild,normal,FALSE,yes
+11,sunny,mild,normal,TRUE,yes
+12,overcase,mild,high,TRUE,yes
+13,overcase,hot,normal,FALSE,yes
+14,rain,mild,high,TRUE,no
